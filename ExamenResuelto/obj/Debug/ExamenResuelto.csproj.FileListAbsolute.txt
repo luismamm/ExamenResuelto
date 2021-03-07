@@ -1,0 +1,11 @@
+C:\Users\Luisma\source\repos\ExamenResuelto\ExamenResuelto\bin\Debug\ExamenResuelto.exe.config
+C:\Users\Luisma\source\repos\ExamenResuelto\ExamenResuelto\bin\Debug\ExamenResuelto.exe
+C:\Users\Luisma\source\repos\ExamenResuelto\ExamenResuelto\bin\Debug\ExamenResuelto.pdb
+C:\Users\Luisma\source\repos\ExamenResuelto\ExamenResuelto\obj\Debug\ExamenResuelto.csprojAssemblyReference.cache
+C:\Users\Luisma\source\repos\ExamenResuelto\ExamenResuelto\obj\Debug\ExamenResuelto.Form1.resources
+C:\Users\Luisma\source\repos\ExamenResuelto\ExamenResuelto\obj\Debug\ExamenResuelto.Properties.Resources.resources
+C:\Users\Luisma\source\repos\ExamenResuelto\ExamenResuelto\obj\Debug\ExamenResuelto.csproj.GenerateResource.cache
+C:\Users\Luisma\source\repos\ExamenResuelto\ExamenResuelto\obj\Debug\ExamenResuelto.csproj.CoreCompileInputs.cache
+C:\Users\Luisma\source\repos\ExamenResuelto\ExamenResuelto\obj\Debug\ExamenResuelto.exe
+C:\Users\Luisma\source\repos\ExamenResuelto\ExamenResuelto\obj\Debug\ExamenResuelto.pdb
+C:\Users\Luisma\source\repos\ExamenResuelto\ExamenResuelto\bin\Debug\Database1.mdb
